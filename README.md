@@ -5,7 +5,11 @@ TODOアプリを作成していく。
 タスクばらしもこれから取り入れるべきなので、ここに書き記す。
 ## タスクばらし
 【HTML】入力フォームを作成
+
 【Bootstrap】デザインを整える
+
 【JavaScript】TODOの表示・保存
+
 【JavaScript】TODOを削除
+
 【Javascript】TODOを完了
