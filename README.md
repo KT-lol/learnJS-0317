@@ -13,3 +13,8 @@ TODOアプリを作成していく。
 【JavaScript】TODOを削除
 
 【Javascript】TODOを完了
+
+今回のTODOリストは、以下の動画を参考にさせていただきました。
+
+[![JavaScriptの「基礎」が1時間で分かる「超」入門講座【初心者向け】](https://i.ytimg.com/vi/E08jeQBa1D0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBgwijvl6ekpaDmrFlKKUB3tKyXzw
+)](https://www.youtube.com/watch?v=E08jeQBa1D0&list=PLs3eD4QT7ow5OZfghmc3SpECjEs8Qm3YV)
